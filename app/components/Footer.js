@@ -3,6 +3,8 @@
 import { Footer } from "flowbite-react";
 
 export default function Footer() {
+
+
   return (
     <div>
 <Footer container>
