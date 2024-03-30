@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
+import Foooter from '../components/Foooter'
 
 export default function layout({children}) {
   return (
@@ -15,9 +16,7 @@ export default function layout({children}) {
 
          {children}
 
-         <footer>
-             <h1>@copyright mohammad jafar udddin somrat</h1>
-         </footer>
+        <Foooter />
     </div>
   )
 }

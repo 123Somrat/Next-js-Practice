@@ -2,7 +2,7 @@
 
 import { Footer } from "flowbite-react";
 
-export default function Footer() {
+export default function Foooter() {
 
 
   return (
